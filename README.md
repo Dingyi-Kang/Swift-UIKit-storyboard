@@ -7,4 +7,4 @@ These are my notes about the basic of swift storyboard
   * [An useful link](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)   
   * [Add an underline](NSAttributedString/AddUnderline.md) 
 - [UILabel](UILabel/) 
-  * [Add hyperlink](UILabel/AddHyperLinks) 
+  * [Add hyperlinks](UILabel/AddHyperLinks) 
