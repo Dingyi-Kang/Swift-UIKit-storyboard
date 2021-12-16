@@ -1,4 +1,5 @@
 add a single attribute:
+
 attributedtext.addAttribute(.foregroundColor, value: UIColor.red, range: NSRange(location: 7, length: 5))
 
 add multiple attrubute:
