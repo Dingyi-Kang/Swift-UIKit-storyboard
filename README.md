@@ -8,3 +8,5 @@ These are my notes about the basic of swift storyboard
   * [Add an underline](NSAttributedString/AddUnderline.md) 
 - [UILabel](UILabel/) 
   * [Add hyperlinks](UILabel/AddHyperLinks) 
+- [UILabel](Debug/) 
+  * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00) 
