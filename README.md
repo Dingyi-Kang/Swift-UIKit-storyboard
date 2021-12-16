@@ -5,4 +5,4 @@ These are my notes about the basic of swift storyboard
   * [Add attributes to plain text](NSAttributedString/add_Attributes.md)      
   * [Change font of NSAttributedString](NSAttributedString/changingfontsizeofattributedString.md)    
   * [An useful link](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)   
-  * [Change font of NSAttributedString](NSAttributedString/changingfontsizeofattributedString.md) 
+  * [Add an underline](NSAttributedString/AddUnderline.md) 
