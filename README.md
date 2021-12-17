@@ -6,7 +6,7 @@ These are my notes about the basic of swift storyboard
   * [Change font of NSAttributedString](NSAttributedString/changingfontsizeofattributedString.md)    
   * [An useful link](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example)   
   * [Add an underline](NSAttributedString/AddUnderline.md)
-  * [Add more than one attribute to different places of a NSAttributedString](NSAttributedString/AddUnderline.md)  
+  * [Add more than one attribute to different places of a NSAttributedString](NSAttributedString/Bold_Parts_Of_String_At_Different_Places_Within_A_String.md)  
 - [UILabel](UILabel/) 
   * [Add hyperlinks](UILabel/AddHyperLinks) 
 - [Debug and logging](Debug_and_logging/) 
