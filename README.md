@@ -13,5 +13,6 @@ These are my notes about the basic of swift storyboard
 - [Debug and logging](Debug_and_logging/) 
   * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00) 
   * [Why is logging needed?](https://developer.apple.com/videos/play/wwdc2020/10168/) 
-
+- [TableView](Debug_and_logging/) 
+  * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00)
 
