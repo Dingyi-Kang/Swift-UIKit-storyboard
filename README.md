@@ -20,3 +20,5 @@ These are my notes about the basic of swift storyboard
   * [Error:this_class_is_not_key_value_coding-compliant](TableView/Error:this_class_is_not_key_value_coding-compliant.md)
 - [ToolBar and its items](ToolBar/) 
   * [Make Button Item unusable and invisiable](ToolBarItem/Make_Button_Item_invisiable.md)
+- [TextLabel/TextView](Textlabel&TextView/) 
+  * [Difference between Textlabel and TextView](Textlabel&TextView/Difference_between_Textlabel_and_TextView.md)
