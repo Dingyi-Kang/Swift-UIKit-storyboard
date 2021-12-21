@@ -14,5 +14,5 @@ These are my notes about the basic of swift storyboard
   * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00) 
   * [Why is logging needed?](https://developer.apple.com/videos/play/wwdc2020/10168/) 
 - [TableView](Debug_and_logging/) 
-  * [Error:this_class_is_not_key_value_coding-compliant.md](TableView/Error:this_class_is_not_key_value_coding-compliant.md)
-
+  * [Error:this_class_is_not_key_value_coding-compliant](TableView/Error:this_class_is_not_key_value_coding-compliant.md)
+  * [Ways to set custom tableViewCell](TableView/Ways_To_Set_Custom_TableViewCell.md)
