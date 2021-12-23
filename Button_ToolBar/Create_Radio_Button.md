@@ -35,5 +35,7 @@ if selected {
 }
 
 My code example:
+![image](https://user-images.githubusercontent.com/81428296/147296255-627cbba9-0166-4a94-bf4d-7fbf05da850b.png)
+
 
 Associaed link: https://prograils.com/swift-tutorial-radio-button-pure-code
