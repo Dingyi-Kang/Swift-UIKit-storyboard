@@ -24,3 +24,5 @@ These are my notes about the basic of swift storyboard
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
 - [FireBase](FireBase/) 
   * [How to store dictionary in swift to FireBase](FireBase/How_To_Store_Dictiionary_To_FireBase.md)
+  * [Rule of Security of FireBase](FireBase/Rule_Security.md)
+  * [How to choose between Cloud FireStore and Realtime FireBase](https://firebase.google.com/docs/database/rtdb-vs-firestore)
