@@ -14,4 +14,5 @@ navigation interface
 
 Official documentation: https://developer.apple.com/documentation/uikit/uinavigationcontroller
 
+An official simple tutorial: https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-stack
 
