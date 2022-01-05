@@ -31,5 +31,5 @@ These are my notes about the basic of swift storyboard
   * [How to store dictionary in Swift to FireBase](FireBase/How_To_Store_Dictiionary_To_FireBase.md)
   * [Rule of Security of FireBase](FireBase/Rule_Security.md)
   * [How to choose between Cloud FireStore and Realtime FireBase](https://firebase.google.com/docs/database/rtdb-vs-firestore)
-- [UINavigationController](UINavigation/)
-  * [Intro](UINavigation/Intro.md) 
+- [UINavigationController](UINavigationController/)
+  * [Intro](UINavigationController/Intro.md) 
