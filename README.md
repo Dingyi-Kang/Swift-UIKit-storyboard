@@ -33,5 +33,5 @@ These are my notes about the basic of swift storyboard
   * [How to choose between Cloud FireStore and Realtime FireBase](https://firebase.google.com/docs/database/rtdb-vs-firestore)
 - [UINavigationController and Segue](UINavigationController/)
   * [Intro](UINavigationController/Intro.md)
-  * [ChangeTitleOfUINavBar](UINavigationController/Intro.md) 
+  * [Change Title Of UINavgationBar](UINavigationController/Change_title_of_navigation.md) 
   * [Segue](UINavigationController/Segue.md) 
