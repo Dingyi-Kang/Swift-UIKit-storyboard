@@ -20,4 +20,4 @@ Note2: we cannot directly push the new NavBarItem into the UInavigationVC's navB
 But we have to use func -- "pushItem" when the UINavigationViewController still doesn't have any embedded VC (namely, in the initial stage), like below:
 ![image](https://user-images.githubusercontent.com/81428296/148462750-61512f29-fb7d-4c4b-bb88-dcb45e7a836d.png)
 
-More info about NavBarItem: https://github.com/Dingyi-Kang/Swift-storyboard-basic/new/main/UINavigationController
+More info about NavBarItem: https://github.com/Dingyi-Kang/Swift-storyboard-basic/blob/main/UINavigationController/updateNavBarItem.md
