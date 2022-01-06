@@ -36,6 +36,7 @@ These are my notes about the basic of swift storyboard
   * [Change Title Of UINavgationBar](UINavigationController/Change_title_of_navigationBar.md) 
   * [Segue](UINavigationController/Segue.md)
   * [!Update NavigationBarItem](UINavigationController/updateNavBarItem.md)
+  * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
 - [Container View Controller](Container_View_Controller/)
   * [Embed child view using Storyboard and embeded segues](Container_View_Controller/EmbedSegue.md)
   * [Access child view](Container_View_Controller/AccessChildView.md)
