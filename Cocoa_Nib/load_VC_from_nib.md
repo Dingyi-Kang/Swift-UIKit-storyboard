@@ -6,6 +6,8 @@ How to load ViewController from xib/nin
 
 ![image](https://user-images.githubusercontent.com/81428296/148496787-b5ed71e6-4028-4fca-be8b-88674b49a462.png)
 
+![image](https://user-images.githubusercontent.com/81428296/148507441-a3c926d3-d721-447a-8b12-9c945d0c0e32.png)
+
 
 StackOverflow Link: https://stackoverflow.com/questions/37046573/loading-viewcontroller-from-xib-file
 
