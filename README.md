@@ -45,3 +45,5 @@ These are my notes about the basic of swift storyboard
   * [youtubeTutorial](Container_View_Controller/tutorial.md)
 - [Hierachy of ViewController](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
+- [Swift Grammar](Swift_Grammar/)
+  * [strong vs weak](Swift_Grammar/strong_weak.md)
