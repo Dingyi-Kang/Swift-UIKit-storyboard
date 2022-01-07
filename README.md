@@ -47,6 +47,7 @@ These are my notes about the basic of swift storyboard
 - [Hierachy of ViewController](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
 - [Cocoa Touch Class and Nib](Cocoa_Nib/)
-  * [how to load nib](Cocoa_Nib/How_to_load_nib.md)
+  * [how to load UIView from nib](Cocoa_Nib/How_to_load_nib.md)
+  * [how to load VC from nib](Cocoa_Nib/load_VC_from_nib.md)
 - [Swift Grammar](Swift_Grammar/)
   * [strong vs weak](Swift_Grammar/strong_weak.md)
