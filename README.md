@@ -52,5 +52,8 @@ These are my notes about the basic of swift storyboard
 - [Cocoa Touch Class and Nib](Cocoa_Nib/)
   * [how to load UIView from nib](Cocoa_Nib/How_to_load_nib.md)
   * [how to load VC from nib](Cocoa_Nib/load_VC_from_nib.md)
+- [Communication betweeb VCs](Communication/)
+  * [Protocol, Completion, NotificationCenter](Communication/Protocol_Completion_NOtificationCenter.md)
+  * [Getting reference and casting](Communication/Getting_reference_casting.md)
 - [Swift Grammar](Swift_Grammar/)
   * [strong vs weak](Swift_Grammar/strong_weak.md)
