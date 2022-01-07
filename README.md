@@ -41,6 +41,7 @@ These are my notes about the basic of swift storyboard
   * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
+  * [Tips of using storyboard](Storyboard_segue/ISmall_tricky_tips_of_storyboard.md)
 - [Container View Controller](Container_View_Controller/)
   * [Embed child view using Storyboard and embeded segues](Container_View_Controller/EmbedSegue.md)
   * [Access child view](Container_View_Controller/AccessChildView.md)
