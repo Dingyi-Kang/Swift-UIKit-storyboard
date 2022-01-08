@@ -37,6 +37,7 @@ These are my notes about the basic of swift storyboard
   * [QuickStart: setup navVC using storyboard vs programmatically](UINavigationController/quickStart.md)
   * [Depth: setup navVC](UINavigationController/Depth_navVC.md)
   * [Change Title Of UINavgationBar](UINavigationController/Change_title_of_navigationBar.md)
+  * [Customize the Appearance of NavgationBar](UINavigationController/customize_navigationBar.md)
   * [!Update NavigationBarItem](UINavigationController/updateNavBarItem.md)
   * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
 - [Storyboard and Segue](Storyboard_segue/)
