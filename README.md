@@ -58,3 +58,4 @@ These are my notes about the basic of swift storyboard
   * [Getting reference and casting](Communication/Getting_reference_casting.md)
 - [Swift Grammar](Swift_Grammar/)
   * [strong vs weak](Swift_Grammar/strong_weak.md)
+  * [struct vs class](Swift_Grammar/struct_class.md)
