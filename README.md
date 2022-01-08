@@ -41,6 +41,7 @@ These are my notes about the basic of swift storyboard
   * [Customize the Appearance of NavgationBar](UINavigationController/customize_navigationBar.md)
   * [!Update NavigationBarItem](UINavigationController/updateNavBarItem.md)
   * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
+  * [Set UINavVC as the root VC of app](UINavigationController/SetNavAsRoot.md)
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
   * [Unwind Segue and Passing Info Back](Storyboard_segue/Unwind_Segue.md)
