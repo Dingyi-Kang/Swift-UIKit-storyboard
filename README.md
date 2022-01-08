@@ -51,6 +51,8 @@ These are my notes about the basic of swift storyboard
   * [Access child view](Container_View_Controller/AccessChildView.md)
   * [Communication between parent and child view](Container_View_Controller/Communication_bwt_parent_and_child.md)
   * [youtubeTutorial](Container_View_Controller/tutorial.md)
+- [UISplitViewController](UISplitViewController/)
+  * [Tutorial](UISplitViewController/tutorial.md)
 - [Hierachy of ViewController](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
 - [Cocoa Touch Class and Nib](Cocoa_Nib/)
