@@ -52,7 +52,7 @@ These are my notes about the basic of swift storyboard
 - [Container View Controllers & Container View](Container_View_Controller/)
   * [Overview of ContainerViewControllers](Container_View_Controller/Overview_of_Container_VC.md)
   * [Add and remove childVC programmatically](Container_View_Controller/Add_Remove_ChildVC_Programmatically.md)
-  * [Embed child VC into ContainerView using Storyboard and embeded segues](Container_View_Controller/EmbedSegueInContainerView.md)
+  * [When & How to Embed child VC into ContainerView using Storyboard and embeded segues](Container_View_Controller/When_How_EmbedChildVC_using_storyboard.md)
   * [Addtional Support & Official Document](Container_View_Controller/Additional_Official_Doc.md)
   * [Access child view](Container_View_Controller/AccessChildView.md)
   * [Communication between parent and child view](Container_View_Controller/Communication_bwt_parent_and_child.md)
