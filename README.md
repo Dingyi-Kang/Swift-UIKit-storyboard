@@ -45,7 +45,7 @@ These are my notes about the basic of swift storyboard
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
   * [Official Document of Segue](Storyboard_segue/Official_document_Unwind_Segue.md)
-  * [Lifecycle of Segue](Storyboard_segue/lifecycle_segue.md)
+  * [Lifecycle of Segue](Storyboard_segue/lifeCycle_segue.md)
   * [Unwind Segue and Passing Info Back](Storyboard_segue/Unwind_Segue.md)
   * [Tips of using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
 - [Container View Controller](Container_View_Controller/)
