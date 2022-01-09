@@ -64,6 +64,8 @@ These are my notes about the basic of swift storyboard
 - [Communication betweeb VCs](Communication/)
   * [Protocol, Completion, NotificationCenter](Communication/Protocol_Completion_NOtificationCenter.md)
   * [Getting reference and casting](Communication/Getting_reference_casting.md)
+- [Animation, Transition, Presentation](AnimationTransitionPresentation/)
+  * [Custome Present Style](AnimationTransitionPresentation/presentStyle.md)
 - [Swift Grammar](Swift_Grammar/)
   * [strong vs weak](Swift_Grammar/strong_weak.md)
   * [struct vs class](Swift_Grammar/struct_class.md)
