@@ -81,5 +81,5 @@ These are my notes about the basic of swift storyboard
   * [access control](Swift_Grammar/access_control.md)
   * [Array sort]
 - [Xcode Tips](Xcode_tips/)
-  * [Error after Changing Deploy Target](Xcode_tips/deploy_target.md)
+  * [Error after Changing Deploy Target](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
