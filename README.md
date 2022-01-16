@@ -80,3 +80,5 @@ These are my notes about the basic of swift storyboard
   * [struct vs class](Swift_Grammar/struct_class.md)
   * [access control](Swift_Grammar/access_control.md)
   * [Array sort]
+- [Xcode Tips](Xcode_tips/)
+  * [Error after Changing Deploy Target](Xcode_tips/deploy_target.md)
