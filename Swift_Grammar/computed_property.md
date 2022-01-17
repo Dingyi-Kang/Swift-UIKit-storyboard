@@ -3,6 +3,7 @@ link: https://itnext.io/swift-101-basic-property-92f02256dc07
 ![image](https://user-images.githubusercontent.com/81428296/149709456-b58dda4e-6cd4-40fd-a3a3-14d538b27a5b.png)
 ![image](https://user-images.githubusercontent.com/81428296/149709523-a54bd8fa-ac96-4c1f-8cad-a319435c65a3.png)
 ![image](https://user-images.githubusercontent.com/81428296/149709550-f7afa10b-d58c-4d34-bfdc-850f6375e7b1.png)
+![image](https://user-images.githubusercontent.com/81428296/149799624-b5992a6b-1565-40e9-9e30-fff8d410787e.png)
 
 
 ![image](https://user-images.githubusercontent.com/81428296/149709761-d74cd59c-7476-41c8-a8c7-804519dc61ef.png)
