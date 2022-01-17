@@ -63,6 +63,7 @@ These are my notes about the basic of swift storyboard
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
+  * [Handle Notification in Foreground](notification/handleInForeGround.md)
 - [Hierachy of ViewController](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
 - [Cocoa Touch Class and Nib](Cocoa_Nib/)
