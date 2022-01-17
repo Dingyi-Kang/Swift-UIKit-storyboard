@@ -78,7 +78,8 @@ These are my notes about the basic of swift storyboard
   * [Difference]. (appLifeCycle/difference.md)
 - [Swift Grammar](Swift_Grammar/)
   * [strong vs weak](Swift_Grammar/strong_weak.md)
-  * [struct vs class](Swift_Grammar/struct_class.md)
+  * [Lazy](Swift_Grammar/lazy.md)
+  * [!!!struct vs class -- constant data vs constant address](Swift_Grammar/struct_class.md)
   * [access control](Swift_Grammar/access_control.md)
   * [Array sort]
   * [Stored Property vs Computed Property(getter&setter) vs Observer(willSet & didSet)](Swift_Grammar/computed_property.md)
