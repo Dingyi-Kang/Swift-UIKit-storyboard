@@ -64,6 +64,7 @@ These are my notes about the basic of swift storyboard
 - [Play Video & Audio](Video_audio/)
   * [Play video locally](Video_audio/video.md)
   * [Set size/autolayout of UIView for video](Video_audio/autolayout_audio.md)
+  * [Cannot find filePath - make sure to add file into bundle](Video_audio/add_into_bundle.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
