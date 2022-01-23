@@ -61,6 +61,8 @@ These are my notes about the basic of swift storyboard
   * [youtubeTutorial](Container_View_Controller/tutorial.md)
 - [UISplitViewController](UISplitViewController/)
   * [Tutorial](UISplitViewController/tutorial.md)
+- [Play Video/Audio](Video_audio/)
+  * [Play video locally ]  (Video_audio/video.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
