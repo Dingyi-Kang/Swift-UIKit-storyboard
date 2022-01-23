@@ -63,7 +63,7 @@ These are my notes about the basic of swift storyboard
   * [Tutorial](UISplitViewController/tutorial.md)
 - [Play Video & Audio](Video_audio/)
   * [Play video locally](Video_audio/video.md)
-  * [Set size/autolayout of UIView for video](autolayout_audio/video.md)
+  * [Set size/autolayout of UIView for video](Video_audio/autolayout_audio.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
