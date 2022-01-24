@@ -66,6 +66,7 @@ These are my notes about the basic of swift storyboard
   * [Set size/autolayout of UIView for video](Video_audio/autolayout_audio.md)
   * [Cannot find filePath - make sure to add file into bundle](Video_audio/add_into_bundle.md)
   * [How to stop playing and replay from beginning](Video_audio/stop_replay.md)
+  * [CMTime](Video_audio/CMTime.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
