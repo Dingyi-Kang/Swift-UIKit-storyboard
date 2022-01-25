@@ -30,7 +30,8 @@ These are my notes about the basic of swift storyboard
   * [Change line space of title of UIbutton](Button_ToolBar/Set_lineSpace_of_Button.md)
   * [Customization: iOS 15: UIButton.configuration]
   * [Padding image, title and subtitle]
-  * [Very misleading -- states of button: selected, hightlighted and normal](Button_ToolBar/statesButton.md)
+  * [Very misleading -- states of button: selected, hightlighted and normal](Button_ToolBar/stateButton.md)
+  * [How to set color of title of Button](Button_ToolBar/titleColor.md)
 - [UISegmentControl](UISegmentControl/)
   * [Is it possible to have both title and image? The official doc says no] (UISegmentControl/have_titleAndImage.md)
 - [TextField/TextView](TextField&TextView/) 
