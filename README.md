@@ -28,6 +28,8 @@ These are my notes about the basic of swift storyboard
   * [Create a radio button](Button_ToolBar/Create_Radio_Button.md)
   * [Set title text color of UIbutton](Button_ToolBar/Set_TitleTextColor_of_Button.md)
   * [Change line space of title of UIbutton](Button_ToolBar/Set_lineSpace_of_Button.md)
+- [UISegmentControl](UISegmentControl/)
+  * [Is it possible to have both title and image? The official doc says no] (UISegmentControl/have_titleAndImage.md)
 - [TextField/TextView](TextField&TextView/) 
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
 - [UIScrollView](UIScrollView/)
