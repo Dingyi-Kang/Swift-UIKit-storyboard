@@ -53,7 +53,7 @@ These are my notes about the basic of swift storyboard
   * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
   * [Set UINavVC as the Root VC of the Window/App](UINavigationController/SetNavAsRoot.md)
   * [How to run certain code before nav back](UINavigationController/runCodeBeforeNavBack.md)
-  * [How to pass data through navigation back button](Video_audio/passDataViaNavBack.md)
+  * [How to pass data through navigation back button](UINavigationController/passDataViaNavBack.md)
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
   * [Official Document of Segue](Storyboard_segue/Official_document_Unwind_Segue.md)
