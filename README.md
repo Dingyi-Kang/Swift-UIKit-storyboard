@@ -78,6 +78,7 @@ These are my notes about the basic of swift storyboard
   * [CMTime](Video_audio/CMTime.md)
   * [AddObserver - how to know if video is ready to be player (does not mean it has been fully downloaded)](Video_audio/addObserver.md)
   * [How to make playback controller](Video_audio/playbackController.md)
+  * [How to pass data through navigation back button](Video_audio/passDataViaNavBack.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
