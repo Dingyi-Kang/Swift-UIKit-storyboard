@@ -76,6 +76,7 @@ These are my notes about the basic of swift storyboard
   * [How to stop playing and replay from beginning](Video_audio/stop_replay.md)
   * [CMTime](Video_audio/CMTime.md)
   * [AddObserver - how to know if video is ready to be player (does not mean it has been fully downloaded)](Video_audio/addObserver.md)
+  * [How to make playback controller](Video_audio/playbackController.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
