@@ -75,6 +75,7 @@ These are my notes about the basic of swift storyboard
   * [Cannot find filePath - make sure to add file into bundle](Video_audio/add_into_bundle.md)
   * [How to stop playing and replay from beginning](Video_audio/stop_replay.md)
   * [CMTime](Video_audio/CMTime.md)
+  * [AddObserver - how to know if video is ready to be player (does not mean it has been fully downloaded)](Video_audio/addObserver.md)
 - [Notification](notification/)
   * [Local Notification]  (notification/local.md)
   * [Push Notification]. (notification/push.md)
