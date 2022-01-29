@@ -39,6 +39,7 @@ These are my notes about the basic of swift storyboard
   * [How to programmatically add action/gesture to button](Button_ToolBar/addTarget.md)
 - [UISegmentControl](UISegmentControl/)
   * [Is it possible to have both title and image? The official doc says no] (UISegmentControl/have_titleAndImage.md)
+  * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
 - [TextField/TextView](TextField&TextView/) 
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
 - [UIScrollView](UIScrollView/)
