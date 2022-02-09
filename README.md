@@ -120,3 +120,5 @@ These are my notes about the basic of swift storyboard
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
 - [App Deployment](App_deployment/)
   * [App deployment to App Store](App_deployment/Deploy_AppStore.md)
+- [Git and version controll](VersionControll/)
+  * [Solve the conflicts of storyboard](VersionControll/solveConflictsStoryboard.md)
