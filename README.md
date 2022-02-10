@@ -116,6 +116,7 @@ These are my notes about the basic of swift storyboard
   * [Access control](Swift_Grammar/access_control.md)
   * [Array sort]
   * [Stored Property vs Computed Property(getter&setter) vs Observer(willSet & didSet)](Swift_Grammar/computed_property.md)
+  * [How to get the name of enumeration value which rawValue is not string](Swift_Grammar/enum.md)
 - [Xcode Tips](Xcode_tips/)
   * [Error after Changing Deploy Target -- why no simulator shown](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
