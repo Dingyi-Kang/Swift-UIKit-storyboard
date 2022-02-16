@@ -11,9 +11,10 @@ These are my notes about the basic of swift storyboard
 - [UILabel](UILabel/) 
   * [Add hyperlinks](UILabel/AddHyperLinks)
   * [How to programmatically add tapGesture](UILabel/tapGesture.md)
-- [Animation and transition](Animation/)
+- [Animation, transition and other visual effect](Animation/)
   * [UIView Animation with completion closure](Animation/UIViewAnimation.md)
   * [Transition](Animation/transition.md)
+  * [Add Shadow]
 - [Debug and logging](Debug_and_logging/) 
   * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00) 
   * [Why is logging needed?](https://developer.apple.com/videos/play/wwdc2020/10168/) 
