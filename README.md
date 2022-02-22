@@ -105,6 +105,8 @@ These are my notes about the basic of swift storyboard
 - [Communication betweeb VCs](Communication/)
   * [Protocol, Completion, NotificationCenter](Communication/Protocol_Completion_NOtificationCenter.md)
   * [Getting reference and casting](Communication/Getting_reference_casting.md)
+  * [Part 1 - How to pass data back/inform parent VC -- in case of using segue](UINavigationController/passDataViaNavBack.md)
+  * [Part 2 - How to pass data back/inform parent VC -- in case of using present method](Communication/present_method.md)
 - [Synchronization and asynchronization](SyncAsync/)
   * [How to perform a code after delay](SyncAsync/performCodeAfterDelay.md)
   * [How to cancel previous delayed code](SyncAsync/cancelDelayedCode.md)
