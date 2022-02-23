@@ -125,6 +125,7 @@ These are my notes about the basic of swift storyboard
   * [How to get the name of enumeration value which rawValue is not string](Swift_Grammar/enum.md)
   * [Tuple](Swift_Grammar/tuple.md)
   * [get absolute value -- abs()](Swift_Grammar/abs.md)
+  * [Cheatsheet of Dictionary -- remove and iterate through](Swift_Grammar/dict.md)
 - [Xcode Tips](Xcode_tips/)
   * [Error after Changing Deploy Target -- why no simulator shown](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
