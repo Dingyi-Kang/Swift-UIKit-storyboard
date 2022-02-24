@@ -37,6 +37,7 @@ These are my notes about the basic of swift storyboard
   * [Change line space of title of UIbutton](Button_ToolBar/Set_lineSpace_of_Button.md)
   * [Customization: iOS 15: UIButton.configuration](https://sarunw.com/posts/new-way-to-style-uibutton-in-ios15/)
   * [Padding image, title and subtitle](Button_ToolBar/padding.md)
+  * [Easy but tricky -- UIbuttonImage != UIButtonBackgroundImage -- how to set button title top of an image in button](Button_ToolBar/backgroundImage.md)
   * [Very misleading -- states of button: selected, hightlighted and normal](Button_ToolBar/stateButton.md)
   * [How to set color of title of Button](Button_ToolBar/titleColor.md)
   * [How to programmatically add action/gesture to button](Button_ToolBar/addTarget.md)
