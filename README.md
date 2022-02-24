@@ -62,6 +62,7 @@ These are my notes about the basic of swift storyboard
   * [Customize the Appearance of NavgationBar](UINavigationController/customize_navigationBar.md)
   * [Tricky -- Customize the backBarButton](UINavigationController/customize_backBarButton.md)
   * [!Update NavigationBarItem](UINavigationController/updateNavBarItem.md)
+  * [How to show image in bar button item as it is](UINavigationController/barItemImage.md)
   * [Replace RootVC of NavigationViewController](UINavigationController/ReplaceRootVC.md)
   * [Set UINavVC as the Root VC of the Window/App](UINavigationController/SetNavAsRoot.md)
   * [How to run certain code before nav back](UINavigationController/runCodeBeforeNavBack.md)
