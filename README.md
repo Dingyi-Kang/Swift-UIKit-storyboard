@@ -35,6 +35,7 @@ These are my notes about the basic of swift storyboard
   * [Create a radio button](Button_ToolBar/Create_Radio_Button.md)
   * [Set title text color of UIbutton](Button_ToolBar/Set_TitleTextColor_of_Button.md)
   * [Change line space of title of UIbutton](Button_ToolBar/Set_lineSpace_of_Button.md)
+  * [Why change button title font size doesn't work?](Button_ToolBar/fontSizeUpdate.md)
   * [Customization: iOS 15: UIButton.configuration](https://sarunw.com/posts/new-way-to-style-uibutton-in-ios15/)
   * [Padding image, title and subtitle](Button_ToolBar/padding.md)
   * [Easy but tricky -- UIbuttonImage != UIButtonBackgroundImage -- how to set button title top of an image in button](Button_ToolBar/backgroundImage.md)
