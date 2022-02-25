@@ -22,6 +22,7 @@ These are my notes about the basic of swift storyboard
   * [How embed a tableView inside a tableView](TableView/EmbeddedTableView.md)
   * [Ways to set custom tableViewCell](TableView/Ways_To_Set_Custom_TableViewCell.md)
   * [Scroll to certain row](TableView/Scroll_To_Certain_Row.md)
+  * [Scroll not working and causing VC losing data passed by parent VC](TableView/ScrollCausingBugs.md)
   * [Register custom nib cell into tableView](TableView/Register_Nib_Cell_Into_tableView.md)
   * [Cell Set selected initially](TableView/Certain_Row/Cell_Selected_Initially.md)
   * [Error: this_class_is_not_key_value_coding-compliant](TableView/Error:this_class_is_not_key_value_coding-compliant.md)
