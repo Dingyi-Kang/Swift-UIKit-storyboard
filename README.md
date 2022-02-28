@@ -50,6 +50,7 @@ These are my notes about the basic of swift storyboard
   * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
 - [TextField/TextView](TextField&TextView/) 
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
+  * [Handle textField in tableView](TextField&TextView/handleTextFieldInTableView.md)
 - [UIScrollView](UIScrollView/)
   * [The secrete of UIScrollView](UIScrollView/tutorial.md)
   * [An easy way to adjust/update the background of the scrollView](UIScrollView/adjustBackground.md)
