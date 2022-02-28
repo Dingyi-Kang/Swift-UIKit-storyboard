@@ -121,6 +121,8 @@ These are my notes about the basic of swift storyboard
   * [Custome Present Style](AnimationTransitionPresentation/presentStyle.md)
 - [App LifeCycle - AppDelegate & SceneDelegate](appLifeCycle/)
   * [Difference]. (appLifeCycle/difference.md)
+- [Special issues](special/)
+  * [Supporting Dark Mode](special/supportDarkMode.md)
 - [Swift Grammar](Swift_Grammar/)
   * [Strong vs weak](Swift_Grammar/strong_weak.md)
   * [Class-type protocol and memory leaking](Swift_Grammar/class_protocol.md)
