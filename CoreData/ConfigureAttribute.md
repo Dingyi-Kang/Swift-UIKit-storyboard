@@ -3,3 +3,6 @@
 
 ## In contrast, you can convert dictionary into attribute of entity using transformable, 
 ![image](https://user-images.githubusercontent.com/81428296/156980952-cf38605e-fe46-49db-ab05-48e1a8079a44.png)
+
+## same is array of basic object type
+![image](https://user-images.githubusercontent.com/81428296/156981901-7aac85eb-de94-463c-88df-b23782e14e78.png)
