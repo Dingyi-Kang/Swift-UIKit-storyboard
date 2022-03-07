@@ -150,4 +150,4 @@ These are my notes about the basic of swift storyboard
   * [Codegen](CoreData/Codegen.md)
   * [How to integrate Nnum type into Core Data Model](CoreData/IntegrateEnum.md)
   * [How to option of integer types, int16, int32, int64](CoreData/IntegerChoose.md)
-  * [Configure Entity](CoreData/ConfigureEntity.md)
+  * [Configure Attribute of Entity](CoreData/ConfigureAttribute.md)
