@@ -138,6 +138,7 @@ These are my notes about the basic of swift storyboard
   * [Tuple](Swift_Grammar/tuple.md)
   * [get absolute value -- abs()](Swift_Grammar/abs.md)
   * [Cheatsheet of Dictionary -- remove and iterate through](Swift_Grammar/dict.md)
+  * [How append an array after an array](Swift_Grammar/appendArray.md)
 - [Xcode Tips](Xcode_tips/)
   * [Error after Changing Deploy Target -- why no simulator shown](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
