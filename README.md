@@ -16,7 +16,7 @@ These are my notes about the basic of swift storyboard
   * [Transition](Animation/transition.md)
   * [Add Advanced Shadow](Animation/advancedShadow.md)
 - [Alert](Alert/)
-  * [Default UIAlertController](Alert/UIVCAlert.md)
+  * [Simple warning UIAlertController](Alert/UIVCAlert.md)
   * [Styled UIAlertController](Alert/UIAlertController.md)
 - [Debug and logging](Debug_and_logging/) 
   * [What is logging? print, NSLog, os_log](https://stevenpcurtis.medium.com/logging-in-swift-d9b59146ff00) 
