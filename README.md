@@ -148,7 +148,7 @@ These are my notes about the basic of swift storyboard
   * [Solve the conflicts of storyboard](VersionControll/solveConflictsStoryboard.md)
 - [Core Data](CoreData/)
   * [Add core data model to a created project](CoreData/addToExisting.md)
-  * [Codegen] (CoreData/Codegen.md)
+  * [Codegen](CoreData/Codegen.md)
   * [How to integrate Nnum type into Core Data Model](CoreData/IntegrateEnum.md)
   * [How to choose integer types, int16, int32, int64](CoreData/IntegerChoose.md)
   * [Configure Attribute of Entity](CoreData/ConfigureAttribute.md)
