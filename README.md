@@ -161,6 +161,6 @@ These are my notes about the basic of swift storyboard
   * [How to loop through a relationship in Core Data](CoreData/loopRelationships.md)
   * [!!!Deletion rule](CoreData/deletionRule.md)
   * [Integrate Enum type into CoreData Entity](CoreData/convertEnum.md)
-  * [Create custom entity](CoreData/customEntity.md)
+  * [Configure Atribute -- Create custom entity](CoreData/customEntity.md)
 - [Learning Resources](Resources/)
   * [Medium -- Swift India Community](https://medium.com/swift-india)
