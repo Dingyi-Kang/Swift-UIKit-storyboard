@@ -159,5 +159,5 @@ These are my notes about the basic of swift storyboard
   * [Configure Attribute of Entity](CoreData/ConfigureAttribute.md)
   * [How to build relationships (relation exist like another attribute of entity)](CoreData/relationships.md)
   * [How to loop through a relationship in Core Data](CoreData/loopRelationships.md)
-- [Learning Resources]
+- [Learning Resources](Resources/)
   * [Medium -- Swift India Community](https://medium.com/swift-india)
