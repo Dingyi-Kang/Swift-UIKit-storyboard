@@ -151,6 +151,8 @@ These are my notes about the basic of swift storyboard
   * [App deployment to App Store](App_deployment/Deploy_AppStore.md)
 - [Git and version controll](VersionControll/)
   * [Solve the conflicts of storyboard](VersionControll/solveConflictsStoryboard.md)
+  * [How to revert in Git](VersionControll/revert.md)
+  * [How to add commends for "Insert" line](VersionControll/addComments.md)
 - [Core Data](CoreData/)
   * [Add core data model to a created project](CoreData/addToExisting.md)
   * [Codegen](CoreData/Codegen.md)
