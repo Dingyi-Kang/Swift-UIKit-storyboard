@@ -49,7 +49,7 @@ These are my notes about the basic of swift storyboard
   * [How to programmatically add action/gesture to button](Button_ToolBar/addTarget.md)
   * [How to add GestureRecoginzer/Action to View or Label](Button_ToolBar/addActionToView.md)
 - [UISegmentControl](UISegmentControl/)
-  * [Is it possible to have both title and image? The official doc says no] (UISegmentControl/have_titleAndImage.md)
+  * [Is it possible to have both title and image? The official doc says no](UISegmentControl/have_titleAndImage.md)
   * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
 - [TextField/TextView](TextField&TextView/) 
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
@@ -92,6 +92,9 @@ These are my notes about the basic of swift storyboard
   * [Access child view](Container_View_Controller/AccessChildView.md)
   * [Communication between parent and child view](Container_View_Controller/Communication_bwt_parent_and_child.md)
   * [youtubeTutorial](Container_View_Controller/tutorial.md)
+- [TabViewController -- another type container view](TabViewController/)
+  * [Why not recommend to use TabView alone](TabViewController/whyNotTabViewAlone.md)
+  * [Good architectural design of TabViewController and its associated VCs]
 - [UISplitViewController](UISplitViewController/)
   * [Tutorial](UISplitViewController/tutorial.md)
 - [Play Video & Audio](Video_audio/)
