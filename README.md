@@ -1,4 +1,4 @@
-# swift-storyboard-basic
+# swift-UIstoryboard-basic
 These are my notes about the basic of swift storyboard
 
 - [NSAttributedString](NSAttributedString/) 
