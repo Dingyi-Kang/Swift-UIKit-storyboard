@@ -1,5 +1,7 @@
 This is the official document:
 
+for app lifeclcyle and scene lifecycle: https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
+
 for UIApplicationDelegate: https://developer.apple.com/documentation/uikit/uiapplicationdelegate
 
 for UISceneDelagate: https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background
