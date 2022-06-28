@@ -8,4 +8,4 @@ for UISceneDelagate: https://developer.apple.com/documentation/uikit/app_and_env
 <img width="989" alt="image" src="https://user-images.githubusercontent.com/81428296/176288973-f8c152c3-f355-44a7-97af-14b094fe3242.png">
 
 ### for iOS13+, the app will terminate still notify applicationDelegate
-<img width="1008" alt="image" src="https://user-images.githubusercontent.com/81428296/176289269-258cd769-0bdb-407c-9536-b622723ba6a2.png">
+<img width="976" alt="image" src="https://user-images.githubusercontent.com/81428296/176289904-9d37a906-06da-4a43-b469-33124db4ccea.png">
