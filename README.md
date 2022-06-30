@@ -36,6 +36,8 @@ These are my notes about the basic of swift storyboard
   * [Tricks of adding simple header and footer to tableView](TableView/trickHeaderFooter.md)
 - [UIButton and ToolBar items](Button_ToolBar/) 
   * [Make ToolBar_Button Item unusable and invisiable](Button_ToolBar/Make_Button_Item_invisiable.md)
+  * [Why sometime cannot setTitle of button](Button_ToolBar/cannotSetTitle.md)
+  * [How to set the font-weight of nsAttributeString of title of button](Button_ToolBar/setFontWeightForNSAttrStrOfButton.md)
   * [Create a radio button](Button_ToolBar/Create_Radio_Button.md)
   * [Set title text color of UIbutton](Button_ToolBar/Set_TitleTextColor_of_Button.md)
   * [Change line space of title of UIbutton](Button_ToolBar/Set_lineSpace_of_Button.md)
