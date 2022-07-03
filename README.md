@@ -137,6 +137,8 @@ These are my notes about the basic of swift storyboard
   * [Supporting Dark Mode](special/supportDarkMode.md)
 - [Swift Grammar](Swift_Grammar/)
   * [Strong vs weak](Swift_Grammar/strong_weak.md)
+  * [Auto Reference Counting, retain cycle and memory leaking](Swift_Grammar/memory_leaking_explanation.md)
+  * [How to debug memory leaking] (howDebugMemoryLeaking.md)
   * [Class-type protocol and memory leaking](Swift_Grammar/class_protocol.md)
   * [Lazy](Swift_Grammar/lazy.md)
   * [!!!Struct vs class -- constant data vs constant address](Swift_Grammar/struct_class.md)
