@@ -178,5 +178,6 @@ These are my notes about the basic of swift storyboard
   * [Configure Atribute -- Create Relationship with custom entity](CoreData/customEntity.md)
 - [Design Pattern](DesignPattern/)
   * [Singleton Design Pattern](DesignPattern/singleton.md)
+  * [Dependency injection] (DesignPattern/dependencyInjection.md)
 - [Learning Resources](Resources/)
   * [Medium -- Swift India Community](https://medium.com/swift-india)
