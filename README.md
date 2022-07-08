@@ -36,6 +36,7 @@ These are my notes about the basic of swift storyboard
   * [TableView with multiple sections and headers for sections](https://www.youtube.com/watch?v=AHY09z-XS9s)
   * [Customize header and footer](TableView/customizeHeaderFooter.md)
   * [How to remove the header top padding?](TableView/removeHeaderTopPadding.md)
+  * [When to choose UITableViewController vs embeded tableView](TableView/whenTableViewControllerIsPreferableOverEmbedTableView.md)
 - [UIButton and ToolBar items](Button_ToolBar/) 
   * [Make ToolBar_Button Item unusable and invisiable](Button_ToolBar/Make_Button_Item_invisiable.md)
   * [Why sometime cannot setTitle of button](Button_ToolBar/cannotSetTitle.md)
