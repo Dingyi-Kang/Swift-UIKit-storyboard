@@ -33,7 +33,7 @@ These are my notes about the basic of swift storyboard
   * [Deselecting the table view row when returning](TableView/deselect_when_returnBack.md)
   * [TextField in tableView](TableView/textField.md)
   * [Tricks of adding simple header and footer to tableView](TableView/trickHeaderFooter.md)
-  * [TableView with multiple sections and headers for sections]https://www.youtube.com/watch?v=AHY09z-XS9s
+  * [TableView with multiple sections and headers for sections](https://www.youtube.com/watch?v=AHY09z-XS9s)
   * [Customize header and footer](TableView/customizeHeaderFooter.md)
   * [How to remove the header top padding?](TableView/removeHeaderTopPadding.md)
 - [UIButton and ToolBar items](Button_ToolBar/) 
