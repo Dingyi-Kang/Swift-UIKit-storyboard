@@ -30,12 +30,12 @@ These are my notes about the basic of swift storyboard
   * [Cell Set selected initially](TableView/Certain_Row/Cell_Selected_Initially.md)
   * [Error: this_class_is_not_key_value_coding-compliant](TableView/Error:this_class_is_not_key_value_coding-compliant.md)
   * [Error: Outlets cannot be connected to repeating content iOS (dynamic prototypes VS static cells)](TableView/Error:Outlets_cannot_be_connected_to_repeated_content.md)
-  * [Customize header and footer](TableView/customizeHeaderFooter.md)
-  * [How to remove the header top padding?](TableView/removeHeaderTopPadding.md)
-  * [TableView with multiple sections and headers for sections]https://www.youtube.com/watch?v=AHY09z-XS9s
   * [Deselecting the table view row when returning](TableView/deselect_when_returnBack.md)
   * [TextField in tableView](TableView/textField.md)
   * [Tricks of adding simple header and footer to tableView](TableView/trickHeaderFooter.md)
+  * [TableView with multiple sections and headers for sections]https://www.youtube.com/watch?v=AHY09z-XS9s
+  * [Customize header and footer](TableView/customizeHeaderFooter.md)
+  * [How to remove the header top padding?](TableView/removeHeaderTopPadding.md)
 - [UIButton and ToolBar items](Button_ToolBar/) 
   * [Make ToolBar_Button Item unusable and invisiable](Button_ToolBar/Make_Button_Item_invisiable.md)
   * [Why sometime cannot setTitle of button](Button_ToolBar/cannotSetTitle.md)
