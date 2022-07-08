@@ -27,7 +27,7 @@ Official doc: https://developer.apple.com/documentation/uikit/views_and_controls
 <img width="965" alt="image" src="https://user-images.githubusercontent.com/81428296/178078605-1c128edc-0d4c-40a3-adda-b462185a0433.png">
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/81428296/178078623-24a9ebc6-577c-41ae-82c3-01e98c69bef9.png">
 
-### 4. lastly, if you wanna to have a more customized header, create a subclass of headerFootView, and register it in table with id, and access it with id and case it to your custom class type
+### 4. lastly, if you wanna to have a more customized header, create a subclass of headerFootView, and register it in table with id (note when register, you register it as headfooterView instead tableViewCell. Or, you get a type error), and access it with id and case it to your custom class type
       class CustomHeader: UITableViewHeaderFooterView {
       let title = UILabel()
 
