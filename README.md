@@ -155,6 +155,11 @@ These are my notes about the basic of swift storyboard
   * [How append an array after an array](Swift_Grammar/appendArray.md)
   * [How to pass an optional function as argument to a function/ how to set feault value of function arg](Swift_Grammar/passOptionalFunctions.md)
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
+- [Numeral and string](numberAndString/)
+  * [How to round a double]()
+  * [Display int with leading zero]
+  * [why % operation could be unavailable]
+  * [How to convert percentage to time in hours and minutes]
 - [Xcode Tips](Xcode_tips/)
   * [Error after Changing Deploy Target -- why no simulator shown](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
