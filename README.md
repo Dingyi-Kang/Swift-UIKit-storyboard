@@ -83,6 +83,7 @@ These are my notes about the basic of swift storyboard
   * [How to pass data through navigation back button](UINavigationController/passDataViaNavBack.md)
   * [How to adjust space between two UIBarButtonItem in rightBarButtonItems](UINavigationController/addjustButtonSpace.md)
   * [How to display different navifation title for different tabs](TabViewController/differentNavTitleForEachTab.md)
+  * [How to configure the title color of navigation bar](UINavigationController/titleColor.md)
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
   * [Official Document of Segue](Storyboard_segue/Official_document_Unwind_Segue.md)
