@@ -114,6 +114,9 @@ These are my notes about the basic of swift storyboard
   * [AddObserver - how to know if video is ready to be player (does not mean it has been fully downloaded)](Video_audio/addObserver.md)
   * [How to make playback controller](Video_audio/playbackController.md)
   * [How to play forward/backward](Video_audio/playforwardBackward.md)
+- [Swift Chart](SwiftChart/)
+  * [SwiftUI Chart is excellent but only avaiable after iOS 16]
+  * [danielgindi 3rd-party package](SwiftChart/danielgindi.md)
 - [Notification](notification/)
   * [Local Notification](notification/local.md)
   * [Push Notification](notification/push.md)
