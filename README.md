@@ -167,7 +167,7 @@ These are my notes about the basic of swift storyboard
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
 - [Numeral and string](numberAndString/)
   * [How to round a double]()
-  * [Display int with leading zero]
+  * [Display int with leading zero](numberAndString/displayIntWithLeadingZero.md)
   * [why % operation could be unavailable]
   * [How to convert percentage to time in hours and minutes]
 - [Xcode Tips](Xcode_tips/)
