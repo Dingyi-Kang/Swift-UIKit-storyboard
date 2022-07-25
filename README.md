@@ -56,6 +56,8 @@ These are my notes about the basic of swift storyboard
 - [UISegmentControl](UISegmentControl/)
   * [Is it possible to have both title and image? The official doc says no](UISegmentControl/have_titleAndImage.md)
   * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
+- [UIPageControl and UIPageViewController](UIPageView/)
+  *[Excellent tutorial](UIPageView/tutorial.md)
 - [TextField/TextView](TextField&TextView/) 
   * [Difference between TextField and TextView](TextField&TextView/Difference_between_TextField_and_TextView.md)
   * [Handle textField in tableView](TextField&TextView/handleTextFieldInTableView.md)
