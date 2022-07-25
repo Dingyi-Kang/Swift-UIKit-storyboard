@@ -8,17 +8,12 @@ the code to detect if the far right of the horizaontal scroll view is detected (
                 let width = scrollView.frame.size.width
                    let contentXoffset = scrollView.contentOffset.x
                    let distanceFromFarRight = scrollView.contentSize.width - contentXoffset
-                   if distanceFromFarRight < width - 40 {
-                       if enableScrollBack{
-                           enableScrollBack = false
+                   if distanceFromFarRight < width {
                            print(" you reached the end")
                            guard currChartDataSetIndex + 1 < chartsDataSets.count else{return}
                            currChartDataSetIndex += 1
-
                            self.lineChartView.zoomToCenter(scaleX: 0, scaleY: 0)
                            self.scrollView.setContentOffset(CGPoint.zero, animated: true)
                            //self.setChartData(lineChartView: lineChartView, yValues: chartsDataSets[currChartDataSetIndex])
-                           enableScrollBack = true
-                       }
                    }
             }
