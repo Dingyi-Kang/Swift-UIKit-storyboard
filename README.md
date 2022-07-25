@@ -133,6 +133,7 @@ These are my notes about the basic of swift storyboard
   * [How to load UIView from nib](Cocoa_Nib/How_to_loadUIView_from_nib.md)
   * [How to load VC from nib](Cocoa_Nib/load_VC_from_nib.md)
   * [AwakeFromNib is not called again unless the hosting VC is changed](Cocoa_Nib/awakeFromNibNotCalled.md)
+  * [Loaded nib but the 'view' outlet was not set -- the error when copy and paste a UIView into a newly created nib](Cocoa_Nib/nibViewOutletNotSet.md)
 - [Communication betweeb VCs](Communication/)
   * [Protocol, Completion, NotificationCenter](Communication/Protocol_Completion_NOtificationCenter.md)
   * [Getting reference and casting](Communication/Getting_reference_casting.md)
