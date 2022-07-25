@@ -166,7 +166,7 @@ These are my notes about the basic of swift storyboard
   * [How to pass an optional function as argument to a function/ how to set feault value of function arg](Swift_Grammar/passOptionalFunctions.md)
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
 - [Numeral and string](numberAndString/)
-  * [How to round a double](numberAndString/toRoundDouble.md)
+  * [How to round/ceil/floor a double](numberAndString/toRoundDouble.md)
   * [Display int with leading zero](numberAndString/displayIntWithLeadingZero.md)
   * [why % operation could be unavailable]
   * [How to convert percentage to time in hours and minutes]
