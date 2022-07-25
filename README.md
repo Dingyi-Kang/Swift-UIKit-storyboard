@@ -169,7 +169,7 @@ These are my notes about the basic of swift storyboard
   * [How to round/ceil/floor a double](numberAndString/toRoundDouble.md)
   * [Display int with leading zero](numberAndString/displayIntWithLeadingZero.md)
   * [why % operation could be unavailable](numberAndString/why%notWork.md)
-  * [How to convert percentage to time in hours and minutes]
+  * [How to convert percentage to time in hours and minutes](numberAndString/convertPercentageToHourMinute.md)
 - [Xcode Tips](Xcode_tips/)
   * [Error after Changing Deploy Target -- why no simulator shown](Xcode_tips/Deploy_target.md)
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
