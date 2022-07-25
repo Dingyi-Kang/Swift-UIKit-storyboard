@@ -64,7 +64,7 @@ These are my notes about the basic of swift storyboard
   * [An easy way to adjust/update the background of the scrollView](UIScrollView/adjustBackground.md)
   * [Scroll to the top](UIScrollView/scrollToTop.md)
   * [Detect scroll to bottom/top](UIScrollView/scrollDetect.md)
-  * [Scroll horiontally]()
+  * [Scroll horizontally](UIScrollView/scrollHorizontally.md)
 - [Firebase](FireBase/) 
   * [How to store dictionary in Swift to FireBase](FireBase/How_To_Store_Dictiionary_To_FireBase.md)
   * [Rule of Security of FireBase](FireBase/Rule_Security.md)
