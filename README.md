@@ -52,7 +52,7 @@ These are my notes about the basic of swift storyboard
   * [Very misleading -- states of button: selected, hightlighted and normal](Button_ToolBar/stateButton.md)
   * [How to set color of title of Button](Button_ToolBar/titleColor.md)
   * [How to programmatically add action/gesture to button](Button_ToolBar/addTarget.md)
-  * [How to add GestureRecoginzer/Action to View or Label](Button_ToolBar/addActionToView.md)
+  * [How to add TaPGestureRecoginzer/Action to View or Label Note: it should be TapGestureRecg not GestureRec](Button_ToolBar/addActionToView.md)
 - [UISegmentControl](UISegmentControl/)
   * [Is it possible to have both title and image? The official doc says no](UISegmentControl/have_titleAndImage.md)
   * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
