@@ -201,5 +201,6 @@ These are my notes about the basic of swift storyboard
 - [Design Pattern](DesignPattern/)
   * [Singleton Design Pattern](DesignPattern/singleton.md)
   * [Dependency injection](DesignPattern/dependencyInjection.md)
+  * [Comparison among storyboard, xib/nib, and programmatically](DesignPattern/compareStoryboardXibProgrammatic.md)
 - [Learning Resources](Resources/)
   * [Medium -- Swift India Community](https://medium.com/swift-india)
