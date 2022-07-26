@@ -105,6 +105,7 @@ These are my notes about the basic of swift storyboard
   * [Communication between parent and child view](Container_View_Controller/Communication_bwt_parent_and_child.md)
   * [youtubeTutorial](Container_View_Controller/tutorial.md)
   * [Use Container view to set up the homr view with side menu](Container_View_Controller/useContainerView2SetUpHomeViewWithSideMenu.md)
+  * [Add container view programmatically](Container_View_Controller/containerViewProgrammatically.md)
 - [TabViewController -- another type container view](TabViewController/)
   * [Why not recommend to use TabView alone](TabViewController/whyNotTabViewAlone.md)
   * [Good architectural design of TabViewController and its associated VCs]
