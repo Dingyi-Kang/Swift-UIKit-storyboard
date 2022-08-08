@@ -3,6 +3,8 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
 
 - [AutoLayout](AutoLayout/)
   * [How to set autoLayout constraints programmatically](AutoLayout/setConstraintsProgrammatically.md)
+- [Basic of View](UIView/)
+  * [Difference bwt frame and bounds](UIView/frameBounds.md)
 - [NSAttributedString](NSAttributedString/) 
   * [Add attributes to plain text](NSAttributedString/Add_Attributes.md)      
   * [Change font of NSAttributedString](NSAttributedString/Changing_font_size_of_attributed_String.md)    
