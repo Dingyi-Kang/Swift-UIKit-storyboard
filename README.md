@@ -53,7 +53,7 @@ These are my notes about the basic of swift storyboard
   * [How to set color of title of Button](Button_ToolBar/titleColor.md)
   * [How to programmatically add action/gesture to button](Button_ToolBar/addTarget.md)
   * [How to add TaPGestureRecoginzer/Action to View or Label. !Note: it should be TapGestureRecg not GestureRec](Button_ToolBar/addActionToView.md)
-  * [Why the TapGesture not work: issue of building the connection in interface builder](Button_ToolBar/tapGestureNotWork.md)
+  * [(A good tutorial of adding UITapGestureRecognizer) Why the TapGesture not work: issue of building the connection in interface builder](Button_ToolBar/tapGestureNotWork.md)
   * [Why TapGestureRecognizer not work: issue of multiple tapGestrueRecognizers using the same selector functions](Button_ToolBar/tapGestureNotWork2.md)
   * [Target and selector of UITapGestureRecognizer](Button_ToolBar/targetSelector.md)
 - [UISegmentControl](UISegmentControl/)
