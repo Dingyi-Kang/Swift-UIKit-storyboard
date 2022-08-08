@@ -1,6 +1,6 @@
 link: https://stackoverflow.com/questions/39466001/maskstobounds-vs-clipstobounds
 
-## in short, maskToBounds applied to layer of view (many properties based on view like shadow are acting on layer/CALayer) while clipToBounds applied to view
+## in short, maskToBounds applied to layer of view (many properties based on view like shadow (but not cornerRadius) are acting on layer/CALayer) while clipToBounds applied to view
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/81428296/183470093-b990019d-fcdf-4f66-bcc5-45c63c199ef4.png">
 
