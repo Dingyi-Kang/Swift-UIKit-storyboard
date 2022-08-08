@@ -152,6 +152,7 @@ These are my notes about the basic of swift storyboard
   * [Parsing JSON data](networking/parsingJSON.md)
 - [Special issues](special/)
   * [Supporting Dark Mode](special/supportDarkMode.md)
+  * [How to open external url in browser](special/openExternalURLinBrowser.md)
 - [Swift Grammar](Swift_Grammar/)
   * [Strong vs weak](Swift_Grammar/strong_weak.md)
   * [Auto Reference Counting, retain cycle and memory leaking](Swift_Grammar/memory_leaking_explanation.md)
