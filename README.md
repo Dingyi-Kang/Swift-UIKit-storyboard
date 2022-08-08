@@ -1,6 +1,8 @@
 # swift-UIKit-storyboard-basic
-These are my notes about the basic of swift storyboard
+These are my notes about the basic of swift UIKit including storyboard, xib/nib, or 100% programtically
 
+- [AutoLayout](AutoLayout/)
+  * [How to set autoLayout constraints programmatically](AutoLayout/setConstraintsProgrammatically.md)
 - [NSAttributedString](NSAttributedString/) 
   * [Add attributes to plain text](NSAttributedString/Add_Attributes.md)      
   * [Change font of NSAttributedString](NSAttributedString/Changing_font_size_of_attributed_String.md)    
