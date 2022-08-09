@@ -27,7 +27,10 @@ link: https://useyourloaf.com/blog/stack-view-background-color/
 ### However, there will be is a conflict. In order to make the subviews not exceed the bounds, we need to set this parent view (backgroundView to maskToBound to true).But, if we do so, no only the child views but also the drawn shadows will be clipped (in this example, shadow will disappear)
 <img width="976" alt="image" src="https://user-images.githubusercontent.com/81428296/183533511-7a6277cf-e770-4c66-b4f9-e0a98bc48521.png">
 
-### to solve this issue, we can corner the UIStackView instead of the BackgroundView (still use backgroundView to draw shadow, and thus we need to make the maskToBounds of the backgroundView false in order to show shadow. And make the maskToBounds of UIStackView to ture in order to make corner). Then you will get this:
+### to solve this issue, we can corner the UIStackView instead of the BackgroundView (still use backgroundView to draw shadow, and thus we need to make the maskToBounds of the backgroundView false in order to show shadow. And make the maskToBounds of UIStackView to ture in order to make corner). 
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/81428296/183535776-6edf4520-d8a3-4888-b9e7-c0d37ad4d811.png">
+
+### Then you will get this:
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/81428296/183534255-37c29302-18ab-498c-abff-3f13aeef17b1.png">
 
 ### why there are corner gaps? because the backgroundView's background color is white! After setting it to clear color, you will get: perfect!
