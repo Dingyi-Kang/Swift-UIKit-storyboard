@@ -38,7 +38,7 @@ link: https://useyourloaf.com/blog/stack-view-background-color/
 
 ### 2 if you embed the backgroundView for drawing shadow at the bottom of the UIStack view, you need to make the UIStackView maskToBounds false, and make above UIViews maskToBounds to be true in order to get the corner, and importantly, make the backgroundView's background color be clear
 
-### 3 Also, you can embed the UIStackView in another intermidiate view (between UIStackView and parent backgroundView) in order to make corner without setting the maskToBounds of the parent backgroundView to be true
+### 3 Also, you can embed the UIStackView in another intermidiate view (between UIStackView and parent backgroundView) in order to make corner without setting the maskToBounds of the parent backgroundView to be true. (in this way, no need to set the background color of the ShadowView to clear)
 <img width="1299" alt="image" src="https://user-images.githubusercontent.com/81428296/183535278-b36277b6-0b9e-42b4-9adc-2540ba91ce3f.png">
 
 #### maskToBounds and clipToBounds in this case has the same effect
