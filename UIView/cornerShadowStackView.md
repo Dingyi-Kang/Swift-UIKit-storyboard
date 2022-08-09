@@ -1,3 +1,5 @@
+The difficulties is due to UIStackView is non-redering type, and thus can make corner on it but cannot make/draw shadow on it; However, if we add a background view to dispaly the shadow, the above UIStackView or subviews of UIStackView will cover the shadow. What is more, we cannot make the maskToBounds of the backgroundView to be ture, or it will clip the shadow as well.
+
 # First -- draw shadow of the UIView
 
 Given UIStackView is a nonrendering(/non-drawing) subclass of UIView, we need to put a background view with color below it
@@ -38,8 +40,10 @@ link: https://useyourloaf.com/blog/stack-view-background-color/
 
 ### 2 if you embed the backgroundView for drawing shadow at the bottom of the UIStack view, you need to make the UIStackView maskToBounds false, and make above UIViews maskToBounds to be true in order to get the corner, and importantly, make the backgroundView's background color be clear
 
-### 3 Also, you can embed the UIStackView in another intermidiate view (between UIStackView and parent backgroundView) in order to make corner without setting the maskToBounds of the parent backgroundView to be true. (in this way, no need to set the background color of the ShadowView to clear)
+### 3 Also, you can embed the UIStackView in another intermidiate view (between UIStackView and parent backgroundView) in order to make corner without setting the maskToBounds of the parent backgroundView to be true. (in this way, no need to set the background color of the parentView to clear)
+### note: you need to make both corner and shadow of the most parent view, and just make corner the intermiate view. the corner radius should be same
 <img width="1299" alt="image" src="https://user-images.githubusercontent.com/81428296/183535278-b36277b6-0b9e-42b4-9adc-2540ba91ce3f.png">
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/81428296/183536630-bec39aec-5bca-4975-b24e-1df7bd3b5284.png">
 
 #### maskToBounds and clipToBounds in this case has the same effect
 <img width="604" alt="image" src="https://user-images.githubusercontent.com/81428296/183535428-004f031a-0d60-447c-8b04-045c98c0196c.png">
