@@ -221,6 +221,6 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Singleton Design Pattern](DesignPattern/singleton.md)
   * [Dependency injection](DesignPattern/dependencyInjection.md)
   * [Comparison among storyboard, xib/nib, and programmatically](DesignPattern/compareStoryboardXibProgrammatic.md)
--[Combine and other reactive programming]
+- [Combine and other reactive programming]
 - [Learning Resources](Resources/)
   * [Medium -- Swift India Community](https://medium.com/swift-india)
