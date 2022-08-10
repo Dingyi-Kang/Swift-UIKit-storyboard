@@ -194,6 +194,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Don't forget to Enter when using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
   * [xcworkspace issue](Storyboard_segue/xcworkspace.md)
   * [Asset bug - "Command CompileAssetCatalog failed with a nonzero exit code"](Xcode_tips/CompileAssetCatalogFailed.md)
+  * [Xcode: issue "file xxx is missing from working copy" at project building](Xcode_tips/missingFileIssue.md)
 - [App Deployment](App_deployment/)
   * [App deployment to App Store](App_deployment/Deploy_AppStore.md)
   * [Upload Error: Invalid Pre-Release Train. The train version '1.0' is closed for new build submissions](App_deployment/InvalidPreReleaseTrain.md)
