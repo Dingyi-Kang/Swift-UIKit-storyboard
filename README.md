@@ -9,6 +9,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to clipToBounds work and why subViews are shown when parent view height is set to 0](UIView/clipToBounds.md)
   * [Example of using maskToBound, cornerRadius, and Shadow with shadow drawing performance improvement](UIView/maskToBound.md)
   * [How to make corner and shadow for a StackView](UIView/cornerShadowStackView.md)
+  * [Summary of the conflict between makingCorner and drawShadow](UIView/conflictBwtShadowCorner.md)
 - [NSAttributedString](NSAttributedString/) 
   * [Add attributes to plain text](NSAttributedString/Add_Attributes.md)      
   * [Change font of NSAttributedString](NSAttributedString/Changing_font_size_of_attributed_String.md)    
