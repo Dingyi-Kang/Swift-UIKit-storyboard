@@ -83,7 +83,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Official document -- very useful](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
   * [QuickStart: setup navVC using storyboard vs programmatically](UINavigationController/quickStart.md)
   * [Depth: setup navVC](UINavigationController/Depth_navVC.md)
-  * [Confugure NavBar Appearance globally and locally](UINavigationController/confiGlobaLocal.md)
+  * [!!!Confugure NavBar Appearance globally and locally](UINavigationController/confiGlobaLocal.md)
   * [Customize the Appearance of NavgationBar](UINavigationController/customize_navigationBar.md)
   * [How to configure the title color of navigation bar](UINavigationController/titleColor.md)
   * [How to set background image of navBar](UINavigationController/backgroundImageOfNavBar.md)
