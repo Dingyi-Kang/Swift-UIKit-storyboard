@@ -195,6 +195,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Asset bug - "Command CompileAssetCatalog failed with a nonzero exit code"](Xcode_tips/CompileAssetCatalogFailed.md)
 - [App Deployment](App_deployment/)
   * [App deployment to App Store](App_deployment/Deploy_AppStore.md)
+  * [Upload Error: Invalid Pre-Release Train. The train version '1.0' is closed for new build submissions](App_deployment/InvalidPreReleaseTrain.md)
 - [Git and version controll](VersionControll/)
   * [Solve the conflicts of storyboard](VersionControll/solveConflictsStoryboard.md)
   * [How to revert in Git](VersionControll/revert.md)
