@@ -1,5 +1,7 @@
 The difficulties is due to UIStackView is non-redering type, and thus can make corner on it but cannot make/draw shadow on it; However, if we add a background view to dispaly the shadow, the above UIStackView or subviews of UIStackView will cover the shadow. What is more, we cannot make the maskToBounds of the backgroundView to be ture, or it will clip the shadow as well.
 
+In short, to draw shadow and corner of UIStackView, we need a background UIView. But we cannot make its' maskToBounds/clipToBounds be true. Instead you need to corner both the backgroundView and the above UIViews(/UIStackView)
+
 # First -- draw shadow of the UIView
 
 Given UIStackView is a nonrendering(/non-drawing) subclass of UIView, we need to put a background view with color below it
