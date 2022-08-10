@@ -214,6 +214,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [!!!Deletion rule](CoreData/deletionRule.md)
   * [Integrate Enum type into CoreData Entity](CoreData/convertEnum.md)
   * [Configure Atribute -- Create Relationship with custom entity](CoreData/customEntity.md)
+  * [Saving image in CoreData](CoreData/savingImage.md)
 - [Design Pattern](DesignPattern/)
   * [Singleton Design Pattern](DesignPattern/singleton.md)
   * [Dependency injection](DesignPattern/dependencyInjection.md)
