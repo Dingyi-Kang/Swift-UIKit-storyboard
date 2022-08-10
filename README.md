@@ -96,6 +96,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to display different navifation title for different tabs](TabViewController/differentNavTitleForEachTab.md)
   * [How to configure the title color of navigation bar](UINavigationController/titleColor.md)
   * [How to set background image of navBar](UINavigationController/backgroundImageOfNavBar.md)
+  * [How to make a transparent navBar](UINavigationController/transparentNavBar.md)
 - [Storyboard and Segue](Storyboard_segue/)
   * [Intro to Segue](Storyboard_segue/Intro_Segue.md)
   * [Official Document of Segue](Storyboard_segue/Official_document_Unwind_Segue.md)
