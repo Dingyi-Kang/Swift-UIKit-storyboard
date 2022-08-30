@@ -124,6 +124,8 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to display different navifation title for different tabs](TabViewController/differentNavTitleForEachTab.md)
 - [UISplitViewController](UISplitViewController/)
   * [Tutorial](UISplitViewController/tutorial.md)
+- [Files](Files/)
+  * [How to open local files including txt, rft, and pdf, etc](Files/openFiles.md)
 - [Play Video & Audio](Video_audio/)
   * [Play video locally](Video_audio/video.md)
   * [Set size/autolayout of UIView for video](Video_audio/autolayout_audio.md)
