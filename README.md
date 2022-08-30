@@ -126,6 +126,8 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Tutorial](UISplitViewController/tutorial.md)
 - [Files](Files/)
   * [How to open local files including txt, rft, and pdf, etc](Files/openFiles.md)
+  * [How to display local pdf file](Files/displayLocalPDF.md)
+  * [How to save files locally](Files/saveFiles.md)
 - [Play Video & Audio](Video_audio/)
   * [Play video locally](Video_audio/video.md)
   * [Set size/autolayout of UIView for video](Video_audio/autolayout_audio.md)
