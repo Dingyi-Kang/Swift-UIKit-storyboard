@@ -125,6 +125,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
 - [UISplitViewController](UISplitViewController/)
   * [Tutorial](UISplitViewController/tutorial.md)
 - [Files](Files/)
+  * [Tutorial: how to work with files](Files/intro.md)
   * [How to open local files including txt, rft, and pdf, etc](Files/openFiles.md)
   * [How to display local pdf file](Files/displayLocalPDF.md)
   * [How to save files locally](Files/saveFiles.md)
