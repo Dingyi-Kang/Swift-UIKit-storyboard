@@ -180,6 +180,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Class-type protocol and memory leaking](Swift_Grammar/class_protocol.md)
   * [Lazy](Swift_Grammar/lazy.md)
   * [Lazy weak vs let](Swift_Grammar/lazyWeakLet.md)
+  * [Configure a property in its initialization](Swift_Grammar/configurePropertyInitial.md)
   * [!!!Struct vs class -- constant data vs constant address](Swift_Grammar/struct_class.md)
   * [Access control](Swift_Grammar/access_control.md)
   * [Array sort]
