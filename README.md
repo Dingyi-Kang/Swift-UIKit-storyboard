@@ -25,7 +25,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [UIView Animation with completion closure](Animation/UIViewAnimation.md)
   * [Transition](Animation/transition.md)
   * [Add Advanced Shadow](Animation/advancedShadow.md)
-  * [Custome Present Style](AnimationTransitionPresentation/presentStyle.md)
+  * [Custome Present Style Programmatically](AnimationTransitionPresentation/presentStyle.md)
   * [UIVisualEffectView tutorial](AnimationTransitionPresentation/UIVisualEffectView.md)
 - [Alert](Alert/)
   * [Simple warning UIAlertController](Alert/UIVCAlert.md)
