@@ -46,6 +46,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [TableView with multiple sections and headers for sections](https://www.youtube.com/watch?v=AHY09z-XS9s)
   * [Customize header and footer](TableView/customizeHeaderFooter.md)
   * [How to remove the header top padding?](TableView/removeHeaderTopPadding.md)
+  * [How to change headView background color like make is transparent for iOS before 15](TableView/headerBGcolor.md)
   * [When to choose UITableViewController vs embeded tableView](TableView/whenTableViewControllerIsPreferableOverEmbedTableView.md)
   * [How to distinguish different tableViews when there are mutiple tableviews in a VC]
 - [UIButton, ToolBar items, UIGestureRecognizer](Button_ToolBar/) 
