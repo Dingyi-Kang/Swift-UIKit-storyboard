@@ -21,6 +21,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Add hyperlinks](UILabel/AddHyperLinks)
   * [How to programmatically add tapGesture](UILabel/tapGesture.md)
   * [How to change linespace of label](UILabel/lineSpaceLabel.md)
+  * [Add shadows for words within the label](UILabel/addShadowForWords.md)
 - [Animation, transition, presentation and other visual effect](Animation/)
   * [UIView Animation with completion closure](Animation/UIViewAnimation.md)
   * [Transition](Animation/transition.md)
