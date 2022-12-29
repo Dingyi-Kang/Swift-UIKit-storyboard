@@ -239,6 +239,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Rule of Security of FireBase](FireBase/Rule_Security.md)
   * [How to choose between Cloud FireStore and Realtime FireBase](https://firebase.google.com/docs/database/rtdb-vs-firestore)
   * [How to upload image to firestorage and save the reference in database](FireBase/imageStore.md)
+  * [How to handle errors of authentication provided by Firebase](FireBase/handleErrors.md)
 - [Design Pattern](DesignPattern/)
   * [Singleton Design Pattern](DesignPattern/singleton.md)
   * [Dependency injection](DesignPattern/dependencyInjection.md)
