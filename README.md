@@ -114,6 +114,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Styles of Action Segue](Storyboard_segue/styles_actionSegue.md)
   * [Unwind Segue and Passing Info Back](Storyboard_segue/Unwind_Segue.md)
   * [Tips of using storyboard](Storyboard_segue/Small_tricky_tips_of_storyboard.md)
+  * [How to not use VC in storyboard as initial VC and use a custom xib as initial VC instead](Storyboard_segue/customInitialVC.md)
 - [Container View Controllers & Container View](Container_View_Controller/) 
   * [Overview of ContainerViewControllers](Container_View_Controller/Overview_of_Container_VC.md)
   * [Add and remove childVC programmatically](Container_View_Controller/Add_Remove_ChildVC_Programmatically.md)
