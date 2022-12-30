@@ -201,7 +201,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How append an array after an array](Swift_Grammar/appendArray.md)
   * [How to pass an optional function as argument to a function/ how to set feault value of function arg](Swift_Grammar/passOptionalFunctions.md)
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
-  * [An excellent tutorial on high-order functions (namely, passing functions as parameters)](Swift_Grammar/highOrderFunction.md)
+  * [An excellent tutorial on high-order functions and closure (namely, passing functions as parameters)](Swift_Grammar/highOrderFunction.md)
 - [Numeral and string](numberAndString/)
   * [How to round/ceil/floor a double](numberAndString/toRoundDouble.md)
   * [Display int with leading zero](numberAndString/displayIntWithLeadingZero.md)
