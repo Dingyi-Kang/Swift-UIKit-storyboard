@@ -152,7 +152,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to use UIImagePickerView and PHPickerViewController](Photos/uiimagePickerView.md)
   * [How to set requiring grant of access to camera in info.plist](Photos/accesCamera.md)
   * [How to request user's permission to access camera]
-  * [How to set custom camera view]
+  * [How to set custom camera view](Photos/setCustomCameraView.md)
 - [Swift Chart](SwiftChart/)
   * [SwiftUI Chart is excellent but only avaiable after iOS 16]
   * [danielgindi 3rd-party package](SwiftChart/danielgindi.md)
