@@ -149,10 +149,9 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to play forward/backward](Video_audio/playforwardBackward.md)
   * [Use google-supported YoutubePlayer SDK](Video_audio/googleYTBPlayer.md)
 - [Select Photos or Take Photos](Photos/)
-  * [How to use UIImagePickerView](Photos/uiimagePickerView.md)
-  * [How to set requiring grant of access to camera in info.plist]
+  * [How to use UIImagePickerView and PHPickerViewController](Photos/uiimagePickerView.md)
+  * [How to set requiring grant of access to camera in info.plist](Photos/accesCamera.md)
   * [How to request user's permission to access camera]
-  * [The PHPickerViewController]
   * [How to set custom camera view]
 - [Swift Chart](SwiftChart/)
   * [SwiftUI Chart is excellent but only avaiable after iOS 16]
