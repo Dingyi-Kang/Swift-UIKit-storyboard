@@ -212,6 +212,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Map vs Filter vs Flatten vs Reduce](HigherOrderFunctions/)
   * [Map vs FlatMap vs CompactMap](HigherOrderFunctions/maps.md)
 - [Numeral and string](numberAndString/)
+  * [Swift String APIs](numberAndString/APIs.md)
   * [How to round/ceil/floor a double](numberAndString/toRoundDouble.md)
   * [Display int with leading zero](numberAndString/displayIntWithLeadingZero.md)
   * [How to get random number within a range](numberAndString/random.md)
