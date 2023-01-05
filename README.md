@@ -208,7 +208,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
   * [An excellent tutorial on high-order functions and closure (namely, passing functions as parameters)](Swift_Grammar/highOrderFunction.md)
 - [Higher Order Functions](HigherOrderFunctions/)
-  * [What is and Why use higher order functions?](HigherOrderFunctions/)
+  * [What is and Why use higher order functions?](HigherOrderFunctions/WhatAndWhyUse.md)
   * [Map vs Filter vs Flatten vs Reduce](HigherOrderFunctions/)
   * [Map vs FlatMap vs CompactMap](HigherOrderFunctions/maps.md)
 - [Numeral and string](numberAndString/)
