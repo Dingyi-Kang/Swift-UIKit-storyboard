@@ -1,3 +1,5 @@
+Tutorial Link: https://www.appypie.com/swift-flatmap-compactmap-how-to
+
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/81428296/210879632-aecd5b76-2640-4bf0-9e77-31cd0bb3b55a.png">
 
 ## Map
