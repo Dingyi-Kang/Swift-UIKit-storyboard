@@ -1,10 +1,10 @@
 # swift-UIKit-storyboard-basic
 These are my notes about the basic of swift UIKit including storyboard, xib/nib, or 100% programtically
-
 - [AutoLayout](AutoLayout/)
   * [How to set autoLayout constraints programmatically](AutoLayout/setConstraintsProgrammatically.md)
 - [Concepts of UIView](UIView/)
   * [Difference bwt frame and bounds](UIView/frameBounds.md)
+  * [UIView vs CALayer](UIView/UIViewCALayer.md)
   * [ClipToBounds vs masksToBound](UIView/clipToBoundsMaskToBound.md)
   * [How to clipToBounds work and why subViews are shown when parent view height is set to 0](UIView/clipToBounds.md)
   * [Example of using maskToBound, cornerRadius, and Shadow with shadow drawing performance improvement](UIView/maskToBound.md)
