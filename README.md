@@ -71,6 +71,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [(A good tutorial of adding UITapGestureRecognizer) Why the TapGesture not work: issue of building the connection in interface builder](Button_ToolBar/tapGestureNotWork.md)
   * [Why TapGestureRecognizer not work: issue of multiple tapGestrueRecognizers using the same selector functions](Button_ToolBar/tapGestureNotWork2.md)
   * [Target and selector of UITapGestureRecognizer](Button_ToolBar/targetSelector.md)
+  * [Capture Touch Events Outside UIView Bounds](Button_ToolBar/CaptureTouchEventsOutsideUIViewBounds.md)
 - [UISegmentControl](UISegmentControl/)
   * [Is it possible to have both title and image? The official doc says no](UISegmentControl/have_titleAndImage.md)
   * [How to create custom Segmented Controller](UISegmentControl/createCustomSegmentControl.md)
