@@ -88,6 +88,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Detect scroll to bottom/top](UIScrollView/scrollDetect.md)
   * [Scroll horizontally](UIScrollView/scrollHorizontally.md)
   * [Scroll to the top of scrollView](UIScrollView/scrollToTop2.md)
+  * [Scroll Paging Animation, Page step](UIScrollView/scrollPage.md)
 - [UINavigationController](UINavigationController/)
   * [Intro](UINavigationController/Intro.md)
   * [Official document -- very useful](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
