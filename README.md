@@ -89,6 +89,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Scroll horizontally](UIScrollView/scrollHorizontally.md)
   * [Scroll to the top of scrollView](UIScrollView/scrollToTop2.md)
   * [Scroll Paging Animation, custom paging size](UIScrollView/scrollPage.md)
+  * [contentOffset, ContentInset and ContentSize of a UIScrollView](UIScrollView/contentOffset.md)
 - [UINavigationController](UINavigationController/)
   * [Intro](UINavigationController/Intro.md)
   * [Official document -- very useful](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
