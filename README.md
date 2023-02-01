@@ -210,6 +210,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to pass an optional function as argument to a function/ how to set feault value of function arg](Swift_Grammar/passOptionalFunctions.md)
   * [What does @escaping means? what is difference bwt it and a function argument](Swift_Grammar/@escaping.md)
   * [An excellent tutorial on high-order functions and closure (namely, passing functions as parameters)](Swift_Grammar/highOrderFunction.md)
+  * [!!![weak self] in](Swift_Grammar/weak_self.md)
 - [Higher Order Functions](HigherOrderFunctions/)
   * [What is and Why use higher order functions?](HigherOrderFunctions/WhatAndWhyUse.md)
   * [Map vs Filter vs Flatten vs Reduce](HigherOrderFunctions/)
