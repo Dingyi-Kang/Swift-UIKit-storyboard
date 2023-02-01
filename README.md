@@ -160,8 +160,9 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [SwiftUI Chart is excellent but only avaiable after iOS 16]
   * [danielgindi 3rd-party package](SwiftChart/danielgindi.md)
 - [Integrate SwiftUI in UIKit]
-- [Hierachy of ViewController](Hierachy_of_ViewController/)
+- [ViewController and its Hierachy](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
+  * [Dependency Injection and Custom Initializer of VC](Hierachy_of_ViewController/customInit.md)
 - [Cocoa Touch Class and Nib](Cocoa_Nib/)
   * [How to load UIView from nib](Cocoa_Nib/How_to_loadUIView_from_nib.md)
   * [How to load VC from nib](Cocoa_Nib/load_VC_from_nib.md)
