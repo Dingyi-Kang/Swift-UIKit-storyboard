@@ -30,6 +30,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Custome Present Style Programmatically](AnimationTransitionPresentation/presentStyle.md)
   * [UIVisualEffectView tutorial](AnimationTransitionPresentation/UIVisualEffectView.md)
   * [How to make animation launch view](AnimationTransitionPresentation/animLaunch.md)
+  * [The View of Loading Animation](AnimationTransitionPresentation/loadingAnimation.md)
 - [Alert](Alert/)
   * [Simple warning UIAlertController](Alert/UIVCAlert.md)
   * [Styled UIAlertController](Alert/UIAlertController.md)
