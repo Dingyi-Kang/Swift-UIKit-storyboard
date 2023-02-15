@@ -10,3 +10,4 @@
 ## similary, in fearlessTherapeutics,
 ## dictionary information (keys and values) are both stored in the entity of practices. All these practices entity are associated with the user and further re-organized as dictionary (given it contains both key and value info)
 
+![image](https://user-images.githubusercontent.com/81428296/158006720-aa3a8d2c-ed31-4d39-be27-a8cc00227d42.png)
