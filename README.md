@@ -254,6 +254,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [!!!Deletion rule](CoreData/deletionRule.md)
   * [Integrate Enum type into CoreData Entity](CoreData/convertEnum.md)
   * [Configure Atribute -- Create Relationship with custom entity](CoreData/customEntity.md)
+  * [How to store dictionary in core date](CoreData/saveDict.md)
   * [Saving image in CoreData](CoreData/savingImage.md)
 - [Firebase](FireBase/) 
   * [How to store dictionary in Swift to FireBase](FireBase/How_To_Store_Dictiionary_To_FireBase.md)
