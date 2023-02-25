@@ -159,6 +159,10 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [How to request user's permission to access camera](Photos/requestPermission.md)
   * [How to set custom camera view](Photos/setCustomCameraView.md)
   * [How to scan a document like App Notes](Photos/scanDocument.md)
+- [PDFKit](PDF/)
+  * [Great tutorial](PDF/tutorial.md)
+  * [How to draw/render vetically]
+  * [How to render custom UIView in PDF]
 - [Swift Chart](SwiftChart/)
   * [SwiftUI Chart is excellent but only avaiable after iOS 16]
   * [danielgindi 3rd-party package](SwiftChart/danielgindi.md)
