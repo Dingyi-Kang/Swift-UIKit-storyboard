@@ -163,8 +163,8 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [SwiftUI Chart is excellent but only avaiable after iOS 16]
   * [danielgindi 3rd-party package](SwiftChart/danielgindi.md)
   * [Daneil Chart -- mutiple lines, combinedChartView](SwiftChart/multipleLines.md)
-  *[Daneil Chart -- custom legends](SwiftChart/danielgindi.md)
-  *[Daneil Chart -- custom axis](SwiftChart/customAxis.md)
+  * [Daneil Chart -- custom legends](SwiftChart/legends.md)
+  * [Daneil Chart -- custom axis](SwiftChart/customAxis.md)
 - [Integrate SwiftUI in UIKit]
 - [ViewController and its Hierachy](Hierachy_of_ViewController/)
   * [How to Set Root View Controller Programmatically](Hierachy_of_ViewController/HowSetRootViewControllerProgrammatically.md)
