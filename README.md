@@ -10,6 +10,7 @@ These are my notes about the basic of swift UIKit including storyboard, xib/nib,
   * [Example of using maskToBound, cornerRadius, and Shadow with shadow drawing performance improvement](UIView/maskToBound.md)
   * [How to make corner and shadow for a StackView](UIView/cornerShadowStackView.md)
   * [Summary of the conflict between makingCorner and drawShadow](UIView/conflictBwtShadowCorner.md)
+  * [Custom UIView and its initialized](UIView/custom.md)
 - [NSAttributedString](NSAttributedString/) 
   * [Add attributes to plain text](NSAttributedString/Add_Attributes.md)      
   * [Change font of NSAttributedString](NSAttributedString/Changing_font_size_of_attributed_String.md)    
