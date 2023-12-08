@@ -29,3 +29,5 @@
 # xcode
 
 ![image](https://user-images.githubusercontent.com/81428296/150306034-72d169ad-6467-4a1e-9a4e-7f4a859d32a6.png)
+
+# Note: if you face a certificate issue (like private key missing or the right certificate cannot be logged in), just: 1. remove all related certificates from your Apple KeyChain; 2. revoke previous related certifications from Apple Developer Account if necessary; 3. create new corresponding certificate in Apple Developer Account (create request from your keyChain); 4. download the certificate and install it; 5. Update the associated certificate of the profile of the app in Apple Developer Account to the new certificate; 6. Download the new app profile and use it in SigningIn.
